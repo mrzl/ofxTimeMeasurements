@@ -13,6 +13,7 @@
 #include "../lib/tree.h"
 #include <map>
 
+#include "..\..\..\poco\include\Poco\Thread.h"
 
 #if __cplusplus>=201103L || defined(_MSC_VER)
 	#include <unordered_map>
